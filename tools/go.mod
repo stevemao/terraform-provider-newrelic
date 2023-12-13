@@ -3,7 +3,7 @@ module github.com/newrelic/terraform-provider-newrelic/v2/tools
 go 1.19
 
 require (
-	github.com/bflad/tfproviderlint v0.28.1
+	github.com/bflad/tfproviderlint v0.29.0
 	github.com/client9/misspell v0.3.4
 	github.com/git-chglog/git-chglog v0.15.4
 	github.com/golangci/golangci-lint v1.51.2
@@ -11,7 +11,7 @@ require (
 	github.com/llorllale/go-gitlint v0.0.0-20210608233938-d6303cc52cc5
 	github.com/psampaz/go-mod-outdated v0.9.0
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/tools v0.7.0
+	golang.org/x/tools v0.8.0
 	gotest.tools/gotestsum v1.9.0
 )
 
@@ -294,10 +294,10 @@ require (
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.19.0 // indirect
 	gocloud.dev v0.24.0 // indirect
-	golang.org/x/crypto v0.5.0 // indirect
+	golang.org/x/crypto v0.8.0 // indirect
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
 	golang.org/x/exp/typeparams v0.0.0-20230203172020-98cc5a0785f9 // indirect
-	golang.org/x/mod v0.9.0 // indirect
+	golang.org/x/mod v0.10.0 // indirect
 	golang.org/x/net v0.9.0 // indirect
 	golang.org/x/oauth2 v0.7.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
